@@ -1,0 +1,6 @@
+SECRET_KEY=s1)5tjcmfi9z=k2f+-el*r&4lb2@!njs=5(lyt(zi%(r+=!kdm
+DEBUG=True
+
+DJANGO_SUPERUSER_USERNAME=super
+DJANGO_SUPERUSER_EMAIL=veryPriv@ate.com
+DJANGO_SUPERUSER_PASSWORD=super
